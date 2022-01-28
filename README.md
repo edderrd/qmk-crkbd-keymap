@@ -23,7 +23,7 @@ After you followed [QMK Setup guide](https://beta.docs.qmk.fm/tutorial/newbs_get
 
 ```bash
 # qmk_firmware
-git submodule add https://github.com/mtoohey31/qmk-crkbd-keymap keyboards/crkbd/keymaps/edder
+git submodule add https://github.com/edderrd/qmk-crkbd-keymap keyboards/crkbd/keymaps/edder
 ```
 
 To compile keymap
